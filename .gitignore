@@ -1,0 +1,16 @@
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vscode/
+*.xcworkspace
+RawAssets/download/
+__pycache__/
+Tools/.venv/
+Dist/
+
+# Depoda yok: Epic lisansli icerik (MetaHuman, Manny), turetilmis ve buyuk dosyalar
+Content/
+RawAssets/
+Build/
+.DS_Store
